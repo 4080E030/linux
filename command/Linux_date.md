@@ -6,7 +6,8 @@ Sun 20 Oct 2019 12:34:24 PM EDT
 ```
 
 
-# date +%Y/%m/%d自訂輸出格式 ### Y=year（年 m=month（月 d=day(日
+# date +%Y/%m/%d自訂輸出格式 
+### Y=year（年 m=month（月 d=day(日
 ```
 指令：root@kali:~# date +%Y/%m/%d
 2019/10/20
@@ -14,7 +15,8 @@ Sun 20 Oct 2019 12:34:24 PM EDT
 ```
 
 
-＃ date +%T只顯示時間 ### Ｔ=time(時間
+＃ date +%T只顯示時間 
+### Ｔ=time(時間
 ```
 指令：root@kali:~# date +%T
 12:38:53
