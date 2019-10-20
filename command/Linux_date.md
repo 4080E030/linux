@@ -15,19 +15,19 @@ Sun 20 Oct 2019 12:34:24 PM EDT
 ```
 
 
-＃ date +%T只顯示時間 
+# date +%T只顯示時間 
 ### Ｔ=time(時間
 ```
 指令：root@kali:~# date +%T
 12:38:53
 ```
 
-#  sudo date -s "(ymd h:m:s)" 可以更改時間日期
+#  sudo date -s "(ymd h: m :s)" 可以更改時間日期
 ```
 指令：sudo date -s "20161111 10:21:32"
 ```
 
-#sudo date -s "next Mon" 下週一
+# sudo date -s "next Mon" 下週一
 ```
 指令：root@kali:~# sudo date -s "next Mon"
 Mon 21 Oct 2019 12:00:00 AM EDT
