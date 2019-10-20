@@ -2,7 +2,6 @@
 ```
 指令：root@kali:~# date(日期
 Sun 20 Oct 2019 12:34:24 PM EDT
-
 ```
 
 
@@ -11,7 +10,6 @@ Sun 20 Oct 2019 12:34:24 PM EDT
 ```
 指令：root@kali:~# date +%Y/%m/%d
 2019/10/20
-
 ```
 
 
