@@ -1,5 +1,5 @@
 # more 
-## （more就是可以一頁一頁讀檔案
+## more就是可以一頁一頁讀檔案
 ```
 root@kali:~# ls
 Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos  yersinia.log
