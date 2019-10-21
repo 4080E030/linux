@@ -1,16 +1,15 @@
 # rm  option files
-### 刪除檔案或目錄 
+# 刪除檔案或目錄 
+#### r：刪除其下的檔案及目錄    
+#### i：刪除時提出警告
+#### f：刪除時不提出警告
+#### d：刪除目錄，即使該目錄並非空目錄
 ```
 root@kali:~# ls 
 Desktop  Documents  Downloads  Music  Pictures  Public  Templates  test  Videos  yersinia.log
 root@kali:~# rm -d test
 root@kali:~# ls
 Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos  yersinia.log
-
-r：刪除其下的檔案及目錄    
-i：刪除時提出警告
-f：刪除時不提出警告
-d：刪除目錄，即使該目錄並非空目錄
 ```
 # 也可使用 rm -rf
 ```
