@@ -1,5 +1,5 @@
 # cd 使用方法
-#### cd file
+#### cd dirName
 ```
 root@kali:~# ls
 2222     Documents  Music     Public     test    yersinia.log
