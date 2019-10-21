@@ -1,5 +1,4 @@
-# rm -d fil]es
-## -參數 檔案或目錄
+# rm  option files
 ### 刪除檔案或目錄 
 ```
 root@kali:~# ls 
