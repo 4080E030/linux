@@ -49,12 +49,13 @@ Usage:
  free [options]
 
 Options:
- -b, --bytes         show output in bytes
-     --kilo          show output in kilobytes
-     --mega          show output in megabytes
-     --giga          show output in gigabytes
-     --tera          show output in terabytes
-     --peta          show output in petabytes
+ -b, --bytes         show output in bytes 用bytes顯示
+     --kilo          show output in kilobytes 用KB顯示
+     --mega          show output in megabytes 用MB顯示
+     --giga          show output in gigabytes 用GB顯示
+     --tera          show output in terabytes 用TB顯示
+     --peta          show output in petabytes 用PB顯示
+     以下為更大容量
  -k, --kibi          show output in kibibytes
  -m, --mebi          show output in mebibytes
  -g, --gibi          show output in gibibytes
